@@ -1,4 +1,16 @@
-### Hi there 👋
+### ¡Hola! 👋🏽👨🏽‍💻
+
+Hi, I'm Emilio. I'm a software engineer from Mexico who is passionate about solving hard problems through technology and making products that create magical experiences for people.
+
+Besides coding, here a few things I love:
+- 🏄🏽‍♂️ Surfing
+- 🏋🏽‍♂️ Crossfit
+- 📚 Reading non-fiction
+- 🎥🍿 Watching lots of movies
+
+The technologies I work with the most are **HTML**, **CSS**, **React.js**, and **Node.js**.
+
+Contact me at <emilio.ramirez@hey.com>.
 
 <!--
 **emilioramirezeguia/emilioramirezeguia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
