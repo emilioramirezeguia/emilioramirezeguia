@@ -8,9 +8,9 @@ Besides coding, here a few things I love:
 - 📚 Reading non-fiction
 - 🎥🍿 Watching lots of movies
 
-The technologies I work with the most are **HTML**, **CSS**, **React.js**, and **Node.js**.
+The technologies I work with the most are **HTML**, **CSS**, **React.js**, **Node.js**, and **PostgreSQL**. I'm starting to learn **Vue.js** 🤓.
 
-Contact me at <emilio.ramirez@hey.com>.
+Let's connect on [LinkedIn](https://www.linkedin.com/in/emilioramirezeguia/) or over [email](mailto:emilio.ramirez@hey.com).
 
 <!--
 **emilioramirezeguia/emilioramirezeguia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
