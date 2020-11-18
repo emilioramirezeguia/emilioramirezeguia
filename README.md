@@ -1,4 +1,4 @@
-### ¡Hola! 👋🏽👨🏽‍💻
+### ¡Hola! 👋🏽👨🏽‍💻🇲🇽
 
 Hi, I'm Emilio. I'm a software engineer from Mexico who is passionate about solving hard problems through technology and making products that create magical experiences for people.
 
@@ -8,7 +8,7 @@ Besides coding, here a few things I love:
 - 📚 Reading non-fiction
 - 🎥🍿 Watching lots of movies
 
-The technologies I work with the most are **HTML**, **CSS**, **React.js**, **Node.js**, and **PostgreSQL**. I'm starting to learn **Vue.js** 🤓.
+The technologies I work with the most are **HTML**, **CSS**, **React.js**, **Node.js**, and **PostgreSQL**. My go-to language for solving coding challenges is **Python**, and I'm interested in learning **Vue.js** 🤓.
 
 Let's connect on [LinkedIn](https://www.linkedin.com/in/emilioramirezeguia/) or over [email](mailto:emilio.ramirez@hey.com).
 
