@@ -2,7 +2,7 @@
 
 Hi, I'm Emilio. I'm a software engineer from Mexico who is passionate about solving hard problems through technology and making products that create magical experiences for people.
 
-Besides coding, here a few things I love:
+Besides coding, here are a few things I love:
 - 🏄🏽‍♂️ Surfing
 - 🏋🏽‍♂️ Crossfit
 - 📚 Reading non-fiction
