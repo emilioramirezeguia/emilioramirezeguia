@@ -1,28 +1,13 @@
-### ¡Hola! 👋🏽👨🏽‍💻🇲🇽
+# Hi, I'm Emilio 👋
 
-Hi, I'm Emilio. I'm a software engineer from Mexico who is passionate about solving hard problems through technology and making products that create magical experiences for people.
+I'm a customer-facing software engineer based in Mexico.
 
-Besides coding, here are a few things I love:
-- 🏄🏽‍♂️ Surfing
-- 🏋🏽‍♂️ Crossfit
-- 📚 Reading non-fiction
-- 🎥🍿 Watching lots of movies
+I've worked across implementation, customer success engineering, product engineering, and full-stack software development — first helping customers get value from technical products, then moving deeper into product and engineering roles at Clearbit and HubSpot.
 
-The technologies I work with the most are **HTML**, **CSS**, **React.js**, **Node.js**, and **PostgreSQL**. My go-to language for solving coding challenges is **Python**, and I'm interested in learning **Vue.js** 🤓.
+These days, I'm especially interested in the intersection of customers, product, engineering, and AI workflows: understanding messy operational problems, translating them into technical solutions, and building practical software that people actually use.
 
-Let's connect on [LinkedIn](https://www.linkedin.com/in/emilioramirezeguia/) or over [email](mailto:emilio.ramirez@hey.com).
+Recently, through Mailo, I've been building automation and AI-assisted workflows for SMBs in Mexico using tools like TypeScript, Node.js, APIs, WhatsApp/CRM workflows, Claude, ChatGPT, and Vercel.
 
-<!--
-**emilioramirezeguia/emilioramirezeguia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Outside of work, I'm usually surfing, snowboarding, reading, or tinkering with new tools.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Let's connect: [LinkedIn](https://linkedin.com/in/emilioramirezeguia)
